@@ -1,2 +1,2 @@
 # CleanCsharp
-Clean C#
+Translation 《Clean C#》 from English to Chinese.

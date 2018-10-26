@@ -20,11 +20,11 @@ namespace CleanCSharp.Errors.Clean
 
 译文约17,088字，原书封面及作者信息如下：
 
-![封面](../imgs/cover.jpg)
+![封面](/imgs/cover.jpg)
 
 
 
-![作者](../imgs/author.jpg)
+![作者](/imgs/author.jpg)
 
 
 
